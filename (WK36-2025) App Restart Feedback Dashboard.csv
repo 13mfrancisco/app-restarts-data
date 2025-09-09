@@ -1,5 +1,5 @@
 Date,Time,Timezone,Store,Version,lastActiveUser,Retailer,lastUserSessionId,lastAppSessionId,Area,Sub Area,What was the problem?
-2025-09-06,14:18:53,UTC,UK-500,1.68.1 ,9ab869aec3175335959312e2f4272f62,allsaints,LbUR4rdMLBSe5i5HCx26O,fzzf5XG5Ns2-UQ90yAXad,Inventory,Transferring,Midway through adding more product it brought up a pickinh list while i was trying to add morr to the batch for transfers
+2025-09-06,14:18:53,UTC,UK-500,1.68.1 ,9ab869aec3175335959312e2f4272f62,allsaints,LbUR4rdMLBSe5i5HCx26O,fzzf5XG5Ns2-UQ90yAXad,Inventory,Transferring,Midway through adding more product it brought up a picking list while i was trying to add morr to the batch for transfers
 2025-09-06,15:40:57,UTC,5926,1.66.1 ,15ae8840183755e0be76b6a23cee90dc,fossilgroup,42c_JBwHqGpQ2pilbUee4,TzY3pM2p1AgAqoncK8tK7,Login,Enter PIN,Buffering. This happens 4-5 times a day under 125272
 2025-09-06,15:45:17,UTC,US-NY-MADI,1.64.0 ,ac01783e0702541a8778f7d6a852ebca,ganni,S2gFU4Tz9KNBxstCacwcj,J6kxawmrRD_1RvMeYOQ8t,Login,Enter Email & Password,For the past week every time I login it tells me I have the incorrect password or email and then when I do a hard reset it works. Otherwise I get locked out
 2025-09-06,16:02:24,UTC,59,1.66.1 ,3ec3865012fe58eea2838b1c7ab71e1c,windsor,DqW41tkhiX3IH_DjFiVSw,SorsNZtETLRg4Mh5UxWtN,Login,Enter Email & Password,Wouldn’t work
@@ -69,7 +69,7 @@ Date,Time,Timezone,Store,Version,lastActiveUser,Retailer,lastUserSessionId,lastA
 2025-09-04,9:18:39,UTC,771,1.68.1 ,c60cc0c6f3c357af830af3c61d3b04c0,lego,qfAjEFsiMiUBhqJdZjo9G,_EZDGgD9amZ0bDWCDwbS6,Selling,Process Sale,App was really slow
 2025-09-04,16:25:28,UTC,868,1.68.1 ,b6b7746caeb45e38a6196c4abe106301,lego,WjN5R0Gkgk5KncXAbFUEq,aM-dVremFdci--USnVWRc,Selling,Capture Payment,Credit kept loading
 2025-09-04,16:26:25,UTC,868,1.68.1 ,b6b7746caeb45e38a6196c4abe106301,lego,QsoYWFeSDjN1fY3_jovu6,6fZGqW94n0ZpNfru_XzaP,Selling,Process Sale,Can’t submit order
-2025-09-03,21:27:52,UTC,US-431,1.67.0 ,43b4248cec5257b78c05857f2da9ce4d,allsaints,0N34hBpJZv9poIgJUUnQv,Bqio5AZiXmng-IqcqVGaT,Fulfillment,Printing,Page times out and has to reload or print additonal label to conplete order
+2025-09-03,21:27:52,UTC,US-431,1.67.0 ,43b4248cec5257b78c05857f2da9ce4d,allsaints,0N34hBpJZv9poIgJUUnQv,Bqio5AZiXmng-IqcqVGaT,Fulfillment,Printing,Page times out and has to reload or print additonal label to complete order
 2025-09-03,17:16:12,UTC,US-594,1.66.1 ,7284a4d16978567698749ee868dd9b7b,allsaints,sySATQnXRY09AY0RGlV4f,HAy40dSrKSKHV9cwjsTqu,Inventory,Receiving,No asns populated on this device but populated on others.
 2025-09-03,8:33:24,UTC,5112,1.66.1 ,e454659aeeab5d11acfdadf11f0a7d32,clarks,VHys_6AJssB4QwgJBtlXv,4wdVwIDJ9LHxxMOPmapvG,Runner,Other,Newly added items were not appearing on the runner
 2025-09-03,23:09:43,UTC,US-634,1.68.1 ,30e9c3f95ff65f5aaf895878bfd0668f,allsaints,1woJpHyVbhyb9hUFNmoAw,h092NrrrYc0AkHrMVYNN3,Runner,Create task,I tried to scan an item to add to runner and was unsuccessful. 
@@ -88,7 +88,7 @@ Date,Time,Timezone,Store,Version,lastActiveUser,Retailer,lastUserSessionId,lastA
 2025-09-03,19:54:48,UTC,US-634,1.68.1 ,f2b631235a295de9847520d3175c852c,allsaints,QsZIhV2e0Bi8VfIJ0S6xA,BzsozhT_mZAt4lApKTEsa,Selling,Search/Create Customer,The app is frozen
 2025-09-03,20:42:49,UTC,45e8cc89-a804-4e64-b24c-48763c134c80,1.68.1 ,c2a5783769075125b3db1ca37a64540c,untuckit,IY6s1PE-jcBbp_Q5Ldu3_,Q-qPRkvrEHdYlFpJL6q25,Selling,Scan Product,The app gets stuck in the time lapsed screen when asked to scan an item to identify.
 2025-09-03,20:57:20,UTC,US-488,1.66.1 ,5ce7f5070e6754f1a56076f8aaa416ea,allsaints,qmX0OISCo2atNNsIrDM7-,5sZgINry55d7m8HqRinP3,Selling,Scan Product,Glitching 
-2025-09-03,23:09:25,UTC,KGC,1.67.0 ,53c3241a1e255387b8544b1386bf7f96,williams,4l89iBWRiKyzVc_elgJQr,tfm_Ou-RnUSoTT9xuag_y,Selling,Process Return,Trying to do a return but search keeps going aroind 
+2025-09-03,23:09:25,UTC,KGC,1.67.0 ,53c3241a1e255387b8544b1386bf7f96,williams,4l89iBWRiKyzVc_elgJQr,tfm_Ou-RnUSoTT9xuag_y,Selling,Process Return,Trying to do a return but search keeps going around
 2025-09-03,1:02:50,UTC,144,1.68.1 ,f22712b544cb5b8cb743a9acdca57f96,lego,1IyO0YYWf_RoFNSdNyKin,k4swqPcrbQhuFR2-9irHn,Selling,Cash Management,"Every time I go to close a register, it tells me please close the register drawer to continue. Despite the fact I have already closed the drawer on the register. every time I have To close the app."
 2025-09-03,13:59:24,UTC,712,1.68.1 ,5aca89a17bf15a4b8e7ce7238a460283,lego,tqvWB1CAa76ISsZ4CNLlP,He6qqEITxkLogrSPgrenc,Selling,Process Sale,Got stuck on the cu
 2025-09-03,23:02:09,UTC,769,1.68.1 ,9c8cf1a9bd3b5c139d3c50776b5286e3,lego,tnArCO_UJL38jhqR-U7Fz,tkJ2m5HDh9qbZnOGtIXU1,Selling,Scan Product,Would not load

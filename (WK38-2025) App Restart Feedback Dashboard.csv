@@ -47,7 +47,6 @@ Date,Time,Timezone,Store,Version,lastActiveUser,Retailer,Retailer StoreID,Countr
 2025-09-19,1:54:10,UTC,769,1.69.0 ,9c8cf1a9bd3b5c139d3c50776b5286e3,lego,lego_769,United States,49WR6pb7s3xBXQOT0bf6U,jVSgXkCyeDSzLwVpOVE7R,Selling,Scan Product,Would not load 
 2025-09-19,3:23:59,UTC,769,1.69.0 ,9c8cf1a9bd3b5c139d3c50776b5286e3,lego,lego_769,United States,_qyPFFe0wOx4HizV_lEvV,FgTzdhLVPGfgn0IX3FuRU,Selling,Scan Product,Would not load
 2025-09-19,15:24:54,UTC,717,1.69.0 ,e55513ca80e55051a51e07523ca7420e,lego,lego_717,United States,SvZSvwdRanebNF-pl8FNE,94dia89clkOikhfHGGPMT,Selling,Scan Product,Scanned product then it was swirling  and would not load
-2025-09-19,16:33:26,UTC,748,1.69.0 ,85dd50b9d3045a0f8e70751b37e25bb0,lego,lego_748,United States,S3iELl8z3G9nIrmexTLen,RrLw_2uZ5pGxJM_l-IkRN,Selling,Printing,"Not printing, "
 2025-09-19,22:03:36,UTC,769,1.69.0 ,62e752fe99b65785a672e50978dba1b2,lego,lego_769,United States,bqJnF6nTMgZVdehE8Zc_h,P-ZZHPn-0R4QnfxMbzcgq,Selling,Scan Product,Crashes once I try to scan
 2025-09-18,9:27:11,UTC,101451,1.68.1 ,38ee8ceb730b509db8ab8cc8a3a5aa1b,wolford,wolford_101451,Switzerland,JlVak9sKAc5tkIN8eCf-T,UrpbhMmvy99dDlsacKzzR,Inventory,Printing,The printing action was blocked. The printer works well.
 2025-09-18,13:44:14,UTC,US-541,1.67.0 ,d96b6d11a3e05ed9896ee6595ffa9c04,allsaints,allsaints_US-541,United States,psparusbNmhOXduQ4dHBD,4pjA15AGn0Hu5VLSY4BoS,Inventory,Receiving,Just froze while scanning
@@ -131,7 +130,6 @@ Date,Time,Timezone,Store,Version,lastActiveUser,Retailer,Retailer StoreID,Countr
 2025-09-14,19:07:54,UTC,132,1.69.0 ,7453ed9340b457099b1f1ca50d67e125,lego,lego_132,United States,gAsHF5vJZo9ci9ca6xdp2,w1Fo_DRL2QV2JaRsrTrNw,Login,Enter Email & Password,Would not load 
 2025-09-14,19:38:33,UTC,797,1.69.0 ,0f7d49c1a9a95d4fad623b72fe9cc549,lego,lego_797,United States,b54ZJZFUNRAjHhqgE1MrJ,fvOlAhkBGrjksbt6YwVnk,Login,Enter PIN,Every single time it make me log in 
 2025-09-14,22:25:53,UTC,769,1.69.0 ,9c8cf1a9bd3b5c139d3c50776b5286e3,lego,lego_769,United States,a0eNXYHXtOE_-Qulfix3M,1NuUk99l1FkxlrlQQ32Fj,Login,Enter Email & Password,Endless wheel of loading
-2025-09-14,0:05:31,UTC,73e6480f-49c7-453d-a2af-f133cc0ec52d,1.68.1 ,6fd033c7979043eba96014b85e76d52c,untuckit,untuckit_73e6480f-49c7-453d-a2af-f133cc0ec52d,United States,FQzqz3qm_BKbYxvXUKOZv,of_iGOAL1ngISpfE8NLlb,Selling,Printing,Zebra printer won’t print multiple labels when prompted too 
 2025-09-14,0:35:08,UTC,A165,1.66.1 ,ec2eebb9d1e2543391b499d8be0f37cd,clarks,clarks_A165,United States,tAOsw4nUFf077vop2csYP,QjYUewNZ8xmYXMYnuAJt1,Selling,Process Sale,Delivery loading issue
 2025-09-14,7:17:51,UTC,KCD,1.67.0 ,c15dbfc63d245176bf46d981b6309014,williams,williams_KCD,Australia,vDdwA14KuILNAMDXWa2q0,9cI9padWVhnfqiZuFivYK,Selling,Scan Product,Really slow and not loading properly. 
 2025-09-14,3:08:05,UTC,769,1.69.0 ,1766af365d8b5fac80005f21fc6bb703,lego,lego_769,United States,eg_Y0yhPTrGpqYEWoErq-,KMiBBYR_L4y_UMwBij7-K,Selling,Process Sale,Froze

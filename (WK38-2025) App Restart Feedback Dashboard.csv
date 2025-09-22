@@ -132,12 +132,12 @@ Date,Time,Timezone,Store,Version,lastActiveUser,Retailer,Retailer StoreID,Countr
 2025-09-14,19:38:33,UTC,797,1.69.0 ,0f7d49c1a9a95d4fad623b72fe9cc549,lego,lego_797,United States,b54ZJZFUNRAjHhqgE1MrJ,fvOlAhkBGrjksbt6YwVnk,Login,Enter PIN,Every single time it make me log in 
 2025-09-14,22:25:53,UTC,769,1.69.0 ,9c8cf1a9bd3b5c139d3c50776b5286e3,lego,lego_769,United States,a0eNXYHXtOE_-Qulfix3M,1NuUk99l1FkxlrlQQ32Fj,Login,Enter Email & Password,Endless wheel of loading
 2025-09-14,0:05:31,UTC,73e6480f-49c7-453d-a2af-f133cc0ec52d,1.68.1 ,6fd033c7979043eba96014b85e76d52c,untuckit,untuckit_73e6480f-49c7-453d-a2af-f133cc0ec52d,United States,FQzqz3qm_BKbYxvXUKOZv,of_iGOAL1ngISpfE8NLlb,Selling,Printing,Zebra printer won’t print multiple labels when prompted too 
-2025-09-14,0:35:08,UTC,A165,1.66.1 ,ec2eebb9d1e2543391b499d8be0f37cd,clarks,clarks_A165,United States,tAOsw4nUFf077vop2csYP,QjYUewNZ8xmYXMYnuAJt1,Selling,Process Sale,Delivery loading issude
+2025-09-14,0:35:08,UTC,A165,1.66.1 ,ec2eebb9d1e2543391b499d8be0f37cd,clarks,clarks_A165,United States,tAOsw4nUFf077vop2csYP,QjYUewNZ8xmYXMYnuAJt1,Selling,Process Sale,Delivery loading issue
 2025-09-14,7:17:51,UTC,KCD,1.67.0 ,c15dbfc63d245176bf46d981b6309014,williams,williams_KCD,Australia,vDdwA14KuILNAMDXWa2q0,9cI9padWVhnfqiZuFivYK,Selling,Scan Product,Really slow and not loading properly. 
 2025-09-14,3:08:05,UTC,769,1.69.0 ,1766af365d8b5fac80005f21fc6bb703,lego,lego_769,United States,eg_Y0yhPTrGpqYEWoErq-,KMiBBYR_L4y_UMwBij7-K,Selling,Process Sale,Froze
 2025-09-14,3:31:05,UTC,769,1.69.0 ,1766af365d8b5fac80005f21fc6bb703,lego,lego_769,United States,EqMqqKrnGNe1-G8B4k80v,paZRT5EW6AqCe7cAdfP6c,Selling,Scan Product,Froze 
 2025-09-14,16:19:41,UTC,701,1.69.0 ,c2e33b0d59605f9e955982766bcf1cdc,lego,lego_701,United States,qsB1Zcpy4xL8Rs7N_lCTa,0tZ_zov09S810BDsuqzVh,Selling,Process Sale,Did not continue after Pay button
-2025-09-14,16:43:18,UTC,868,1.69.0 ,b6b7746caeb45e38a6196c4abe106301,lego,lego_868,United States,U_VrCHhvtcGoyPV7P3iHO,zNFkhrMXkacZTxBXIcGnB,Selling,Printing,Stalled while scanning
+2025-09-14,16:43:18,UTC,868,1.69.0 ,b6b7746caeb45e38a6196c4abe106301,lego,lego_868,United States,U_VrCHhvtcGoyPV7P3iHO,zNFkhrMXkacZTxBXIcGnB,Selling,Scan Product,Stalled while scanning
 2025-09-14,18:31:04,UTC,748,1.69.0 ,245e61c5f25b5368adf86a0ec0523226,lego,lego_748,United States,XTMppJx4F9H8X72tghuGt,sulzpAf45cYxbfx9RtGta,Selling,Process Return,Stuck loading unable to print receipt 
 2025-09-14,18:35:03,UTC,868,1.69.0 ,b6b7746caeb45e38a6196c4abe106301,lego,lego_868,United States,GPv5cC-cszOu0jM1U6UJp,cZDlt54dN_7tN4par93xa,Selling,Scan Product,Stalled while scanning
 2025-09-14,21:36:23,UTC,868,1.69.0 ,b6b7746caeb45e38a6196c4abe106301,lego,lego_868,United States,_XIS31hzcoSFsGvrv0shk,biw7FwrTFSyM-7O0zFWwb,Selling,Scan Product,Stalled while scanning

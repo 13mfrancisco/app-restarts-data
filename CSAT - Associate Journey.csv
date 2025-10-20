@@ -1,11 +1,11 @@
-Cycle,Workflow,Categories (Q2 and Q5),Q2 ISSUES total,Q5 IMPROVEMENTS total,COMBINED (Q2+Q5)
-Aug-Sept 2025 (Q3),Login,Slow response to actions (like adding items to a cart) + Photos and content load slowly +Speed & Performance + Logging in,505,1604,2109
-,Scan,Slow response to actions (like adding items to a cart) + Photos and content load slowly + Speed & Performance + Searching + Scanning,539,1945,2484
-,Search,Slow response to actions (like adding items to a cart) + Photos and content load slowly + Too many steps to complete a task + It’s hard to find products + Speed & Performance + Searching + Ease of Navigation,823,1786,2609
-,Checkout,Slow response to actions (like adding items to a cart) + Too many steps to complete a task + Speed & Performance + Ease of Navigation + Taxes + Customer Capture,443,1549,1992
-,Payment,Too many steps to complete a task + Speed & Performance + Payment + Ease of Navigation,148,1490,1638
-Oct-Nov 2024 (Q3),Login,Slow response to actions (like adding items to a cart) + Photos and content load slowly +Speed & Performance + Logging in,306,620,926
-,Scan,Slow response to actions (like adding items to a cart) + Photos and content load slowly + Speed & Performance + Searching + Scanning,310,736,1046
-,Search,Slow response to actions (like adding items to a cart) + Photos and content load slowly + Too many steps to complete a task + It’s hard to find products + Speed & Performance + Searching + Ease of Navigation,514,700,1214
-,Checkout,Slow response to actions (like adding items to a cart) + Too many steps to complete a task + Speed & Performance + Ease of Navigation + Taxes + Customer Capture,302,601,903
-,Payment,Too many steps to complete a task + Speed & Performance + Payment + Ease of Navigation,125,593,718
+Cycle,Workflow,Categories (Q2 and Q5),Q2 ISSUES total,Q5 IMPROVEMENTS total,COMBINED (Q2+Q5),Cycle_canon
+Aug-Sept 2025 (Q3),Login,Slow response to actions (like adding items to a cart) + Photos and content load slowly +Speed & Performance + Logging in,505,1604,2109,aug - sept 2025 (q3)
+Aug-Sept 2025 (Q3),Scan,Slow response to actions (like adding items to a cart) + Photos and content load slowly + Speed & Performance + Searching + Scanning,539,1945,2484,aug - sept 2025 (q3)
+Aug-Sept 2025 (Q3),Search,Slow response to actions (like adding items to a cart) + Photos and content load slowly + Too many steps to complete a task + It’s hard to find products + Speed & Performance + Searching + Ease of Navigation,823,1786,2609,aug - sept 2025 (q3)
+Aug-Sept 2025 (Q3),Checkout,Slow response to actions (like adding items to a cart) + Too many steps to complete a task + Speed & Performance + Ease of Navigation + Taxes + Customer Capture,443,1549,1992,aug - sept 2025 (q3)
+Aug-Sept 2025 (Q3),Payment,Too many steps to complete a task + Speed & Performance + Payment + Ease of Navigation,148,1490,1638,aug - sept 2025 (q3)
+Oct-Nov 2024 (Q3),Login,Slow response to actions (like adding items to a cart) + Photos and content load slowly +Speed & Performance + Logging in,306,620,926,oct - nov 2024 (q3)
+Oct-Nov 2024 (Q3),Scan,Slow response to actions (like adding items to a cart) + Photos and content load slowly + Speed & Performance + Searching + Scanning,310,736,1046,oct - nov 2024 (q3)
+Oct-Nov 2024 (Q3),Search,Slow response to actions (like adding items to a cart) + Photos and content load slowly + Too many steps to complete a task + It’s hard to find products + Speed & Performance + Searching + Ease of Navigation,514,700,1214,oct - nov 2024 (q3)
+Oct-Nov 2024 (Q3),Checkout,Slow response to actions (like adding items to a cart) + Too many steps to complete a task + Speed & Performance + Ease of Navigation + Taxes + Customer Capture,302,601,903,oct - nov 2024 (q3)
+Oct-Nov 2024 (Q3),Payment,Too many steps to complete a task + Speed & Performance + Payment + Ease of Navigation,125,593,718,oct - nov 2024 (q3)

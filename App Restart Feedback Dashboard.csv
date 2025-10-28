@@ -34,7 +34,7 @@ Date,Time,Timezone,Store,Version,lastActiveUser,Retailer,Retailer StoreID,Countr
 2025-10-25,14:46:21,UTC,10027,1.71.1 ,a53d4700d22c5be09c21f3b8e5b14a5b,shinola,shinola_10027,United States,TVlMvPbXb3iXvdAI2YDSy,YKxpQUDCaCOCdS8kitEqV,Login,Other,App closing at any login attempt 
 2025-10-25,15:15:39,UTC,168,1.66.1 ,50e9fc9c1d3353f2ae10e3ed0ee576c5,windsor,windsor_168,United States,tacfSg7i5OfIA0UcM2mU-,AnsWhlJrICllAPDNKEcyw,Login,Enter PIN,-
 2025-10-25,15:55:40,UTC,A891,1.71.1 ,650c51c9b7d5531bbeb77ea117c7df22,clarks,clarks_A891,United States,QerbCpl5afTm_2Br6W5FV,EbSV4ieEVJkbZsW9OX5Tg,Login,Enter PIN,Newstore crashes as soon as pin is entered
-2025-10-25,16:41:54,UTC,,1.71.1 ,,filson,filson_,-,,,Login,Enter PIN,-
+2025-10-25,16:41:54,UTC,-,1.71.1 ,-,filson,filson_-,-,-,-,Login,Enter PIN,-
 2025-10-25,16:56:50,UTC,50024,1.71.1 ,5f04c6c8197f5b6ca5e847ae0560d9e6,filson,filson_50024,United States,4NoWXr2rIbDIOnFtvRCKJ,lvfzwgcgZbc7G08no0ZO_,Login,-,-
 2025-10-25,18:56:49,UTC,10001,1.71.1 ,a8423f2ab04c5e78bfcf498c7699cb7a,shinola,shinola_10001,United States,DoOLolDHvw7zdHS73Yqgp,CFiEZWJPhV5blBjTxR3KW,Login,Enter PIN,Not able to login to the app.
 2025-10-25,19:29:18,UTC,70,1.71.1 ,10fce8f1569f5013a05f5e5d952e033d,5sn,5sn_70,United States,-o7Dvn9ev3yyZ1vVbsbD7,b7nJGGc_3_YABi3IEUmEn,Login,Enter PIN,When I enter the pin the app crashes

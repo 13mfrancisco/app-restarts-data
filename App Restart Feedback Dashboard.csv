@@ -83,7 +83,7 @@ Date,Time,Timezone,Store,Version,lastActiveUser,Retailer,Retailer StoreID,Countr
 2025-10-22,8:47:07,UTC,4650,1.71.0 ,ae2c7a70a12a5466a276749d0fb32e74,clarks,clarks_4650,United Kingdom,RbWGzkSzYscx1RfQc-lkh,sB1jSZksyPEw4l6RtgjsY,Selling,Offline Mode,Offline order not sending. Cant acvept ASN. Cant do no sales. Fulfillment has disappeared. 
 2025-10-22,9:43:00,UTC,5038,1.71.0 ,f3755a47fdea5906af33b64658af2970,clarks,clarks_5038,United Kingdom,Hi81iYHytmCmuIcDJwrOq,ce9Ywsg-sNNpHGmAkYwM7,Selling,Scan Product,-
 2025-10-22,9:53:19,UTC,2563,1.71.0 ,f67cc07233aa585ab629d258544bff16,clarks,clarks_2563,United Kingdom,ZD3GOdNMo3KzrPrs_IC6d,SevWKeu9dfs7euvoIKv3Q,Selling,Scan Product,-
-2025-10-22,10:34:48,UTC,UK-324,1.70.0 ,d0d94973dffc5b66869fe8286646f98d,allsaints,allsaints_UK-324,United Kingdom,ywibY9njFY6nwooumH5S9,14PLhOAgctH8COmja4MTq,Selling,Process Return,Not adding to cart
+2025-10-22,10:34:48,UTC,UK-324,1.70.0 ,d0d94973dffc5b66869fe8286646f98d,allsaints,allsaints_UK-324,United Kingdom,ywibY9njFY6nwooumH5S9,14PLhOAgctH8COmja4MTq,Selling,Process Sale,Not adding to cart
 2025-10-22,11:51:10,UTC,594,1.71.0 ,16674c26bb3558e2be58ad92b4e4f215,clarks,clarks_594,United Kingdom,FNZrTphuLWU5zYACGaS26,6tcLsxKolsyEm0fnQsDCa,Selling,Search/Create Customer,Slow when searching address
 2025-10-22,15:16:36,UTC,215,1.69.0 ,04a015cf98825f20b11714631764044c,roots,roots_215,Canada,eFl9fVSSBMEvQUS03ITb4,ZAaaaTNX4v15t3VIdz6DR,Selling,Search/Browse Catalog,Freezing when searching for orders
 2025-10-22,17:28:04,UTC,A128,1.70.0 ,3b552c8e3f5752ffb7fb34a8a138aa09,clarks,clarks_A128,United States,50Wd4GyQe_Uvg2S_vjEwg,Q6gvXPLFTSuUpXvcUeacQ,Selling,Process Sale,Went through wouldn't submit

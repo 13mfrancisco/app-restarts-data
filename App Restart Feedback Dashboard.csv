@@ -1,4 +1,138 @@
 Date,Time,Timezone,Store,Version,lastActiveUser,Retailer,Retailer StoreID,Country,lastUserSessionId,lastAppSessionId,Area,Sub Area,What was the problem?
+2025-11-09,19:39:43,UTC,US-538,1.69.0 ,183488d4c509554092cd72050cbcf8e7,allsaints,allsaints_US-538,United States,WJ1hH5FI5ghvYUS74nBpw,MW3uEdDtOnemgzJShCtiV,Login,Enter PIN,Was not loading during sign in process
+2025-11-09,23:36:36,UTC,A129,1.71.2 ,d4ff634a89c753cb8fd80aadcc46d829,clarks,clarks_A129,United States,VQMV9nRLXQLfVhOGqjLvN,j1zkHaaa_ORjXEUI42kTe,Login,Enter PIN,Internet
+2025-11-09,1:45:37,UTC,208,1.71.2 ,5634810125785995888ee2c9afa7437f,rmwilliams,rmwilliams_208,Australia,2MKItrvqJfU39-yo-h9gO,-ZTSodp5kMErNNrqHFQ0o,Selling,Sales Dashboard,Unresponsive
+2025-11-09,2:01:03,UTC,JAU,1.69.0 ,2bf35056880a5079a39c62f30a59eea4,mathers,mathers_JAU,Australia,oZPDubBp1ty9gai8ViuI5,KkewZaLlCHEk5jf5FV5pD,Selling,Sales Dashboard,Sales dashboard completely blank
+2025-11-09,12:09:00,UTC,3834,1.64.0 ,7916f4ff0d4553378b91fbed4fe5c020,clarks,clarks_3834,United Kingdom,O91NFMkBKUnglRa0GsYZr,fDFj_GqmaJZRi-70RQajN,Selling,Scan Product,Froze
+2025-11-09,20:09:12,UTC,MCK_MA_PrudentialCenter_U65,1.71.1 ,d93b0c07157c5cb19f7934973086b613,appgroup,appgroup_MCK_MA_PrudentialCenter_U65,United States,c_nl6Dh5sJ9DF4RQVrPgt,LeTM5xOKahX0PiRpces9F,Selling,Capture Payment,PBL says was successful from client but will not close out or finalize transaction. 
+2025-11-09,21:54:34,UTC,MCK_NY_Madison_U62,1.71.0 ,f52b204596d25c289e70e5279565da3f,appgroup,appgroup_MCK_NY_Madison_U62,United States,ZqHRlv7kcebEDmU7c7AA0,gIRyIPdmGY7W9Y8am2udb,Selling,Other,-
+2025-11-09,22:23:39,UTC,448,1.69.0 ,f508c82855c0570a8c609a917de7b31b,lornajaneoms,lornajaneoms_448,Australia,WQuV2eRrXVJxVGaQDduPU,Ua2p5ekUryA8gxenw5hpk,Selling,Other,-
+2025-11-09,13:27:11,UTC,863,1.71.2 ,1fae06f6cba45d3aadfd2b08f0c05e90,lego,lego_863,United Kingdom,VkqcJqEd739X0-wXonjTX,uwvTSsatKZHUs-vqAl9_q,Selling,Other,-
+2025-11-09,0:38:31,UTC,7478,1.69.0 ,31de3339ee2454d2b9cd0eacaf655636,fossilgroup,fossilgroup_7478,United States,LW-kq85UagxmPTIVQ49Ew,eb7sa-tUKWFPL_Tel_AN4,Other,-,-
+2025-11-09,14:59:53,UTC,2457,1.71.2 ,8c7dfd9d07e75af6a551ae1628e7b5cb,clarks,clarks_2457,United Kingdom,4fGfZHTROHFkSBbwQxTlX,BSHRXdf7vJwX_xFt16r5J,Other,-,-
+2025-11-09,19:19:38,UTC,8245,1.69.0 ,17dd3530c7f85f0ebd84cb0459ce1b77,fossilgroup,fossilgroup_8245,United States,Gj813gy6Zrjjx8a28vRA6,l5s9TlVZ3Dy7DzKAJ07Xq,Other,-,-
+2025-11-08,20:05:20,UTC,161,1.71.1 ,93bb87367aa5585bbb76922ff1eeb9ae,roots,roots_161,Canada,7HvltejvDrBsMsEHI8zW_,MDC54TxlTe-eXrxpwtKPx,Fulfillment,Picking items,Mispicked the last item in the pick list and an error occurred. 
+2025-11-08,0:19:02,UTC,A702,1.71.2 ,44926767ee1e56199d080f8bd61c2df2,clarks,clarks_A702,United States,AW1ZJ7TAgfQhanPPmSjIq,e3HQO1L0yisasVI1DtQkV,Inventory,Transferring,Will not let me complete a transfer 
+2025-11-08,14:53:28,UTC,39,1.71.2 ,cea1559594be502d8e0c65b9b7442fff,aninebing,aninebing_39,United States,9TpogT5bKeoLsJ_C7VYdY,TwAAYjoZYyDQ3Ir9w7RdQ,Login,Enter PIN,Error message 
+2025-11-08,15:06:31,UTC,7513,1.70.0 ,d4528441b71654ab9e8d18f91eff8ddc,fossilgroup,fossilgroup_7513,United States,L9BKOxLXQQQrzZ4TYfzy8,KMRH1mV2H3PhdDXvFrOoL,Login,Enter Email & Password,Locked account 
+2025-11-08,15:51:49,UTC,10002,1.71.2 ,672c0c9847f05619897191650bbac837,shinola,shinola_10002,United States,Mp_z8NUm-sW-tXl6lYsT8,TP7hhalbDUIMAEk7ca_ff,Login,Enter PIN,Invalid login error when it is valid
+2025-11-08,16:40:45,UTC,77,1.66.1 ,710f93f597cf5745b82b261f7ce00115,windsor,windsor_77,United States,LGlrJjhkf5dNos1l8Ffkf,qHl1wzfeavYAIIrYSjAz7,Login,Enter PIN,I put pin says 
+2025-11-08,17:40:11,UTC,320,1.66.1 ,d95a9cf6cd2d54328ce8f2523a42ba15,windsor,windsor_320,United States,ZjK59EMYIVFDtS70THkCM,8OMvwYL94XS5KyYdG17Mm,Login,Enter Email & Password,-
+2025-11-08,18:43:18,UTC,5913,1.69.0 ,30f9c8389fe15f05a90aac43e91fc1ed,fossilgroup,fossilgroup_5913,Canada,wsPCvv5CbZn2XRIt5R6FO,Ab6DD4n9PCUfWu9I5A6-f,Login,Enter Email & Password,Cant log in with right employee number 
+2025-11-08,23:45:35,UTC,289,1.66.1 ,2502c66e6fcd564b86be3f69e9029a89,windsor,windsor_289,United States,4Uh98neARdp2XpZNNe9dt,oqLGerz6m-GcLbBaBDw6k,Login,Enter PIN,Can’t input pin
+2025-11-08,10:58:36,UTC,S0086,1.71.2 ,89aa8b04d6865fbf8a1d9d5e1918410a,footasylum,footasylum_S0086,United Kingdom,GCE0Y2_d9aXY6jBbvGVMf,P0M-k4TWygB1BUoKqoTKh,Runner,Create task,Can’t go back to submit tasks 
+2025-11-08,1:44:58,UTC,162,1.71.2 ,ce083a858ef9552983bfcf3da58661b3,lornajaneoms,lornajaneoms_162,Australia,KC6361_n_BITQfWQM0JiF,J77elMT-pi51l4krj9SK0,Selling,Search/Create Customer,Unable to access customer profile
+2025-11-08,2:10:59,UTC,505,1.71.2 ,6a14eef0847f5225a37ee1b5a32a8812,rmwilliams,rmwilliams_505,Australia,Fsj2VuFIB7vC41-N9qDZs,7lYm4OOZC4mP4IseGffdE,Selling,Scan Product,-
+2025-11-08,2:59:10,UTC,146,1.69.0 ,1bf719b52e875658a3d91f487d423665,lornajaneoms,lornajaneoms_146,Australia,LaU13TynGl_fvrF2vReLT,4sg-rXBae_-qldAkITago,Selling,Search/Create Customer,Wouldn’t load customer info
+2025-11-08,9:43:14,UTC,CC-COP,1.69.0 ,70e12b1e127c5c2cb9217717623a02b4,rapha,rapha_CC-COP,Denmark,xhEF0DUMDScjV74OFnVs7,UMAJgobLPk-CQduX5WWdi,Selling,Scan Product,Screen froze
+2025-11-08,15:32:24,UTC,MERC,1.71.2 ,9b08b896cf06570a97436f7814a905b6,ganni,ganni_MERC,United States,0JLmYds4iGKlDMQZ5HA1S,YlRK7zVMxdWKbVqWPQ7Z-,Selling,Search/Create Customer,Won’t update 
+2025-11-08,20:14:35,UTC,5912,1.69.0 ,14cec84ebf5f51c6ac1726bf4772cde5,fossilgroup,fossilgroup_5912,Canada,387qR7eZnp0c_fEefnatk,AhhtFXRBlgYqzJa6VbRyI,Selling,Capture Payment,Phone went to sleep during POS transaction and is stuck in post payment screen
+2025-11-08,21:08:36,UTC,LYNN,1.71.2 ,b1333c03027e5854a9d497be649917c0,marine-layer,marine-layer_LYNN,United States,3bX9I3zasWsRa3H7tbpF4,BEqwU3UvgFrAkR5iVfln2,Selling,Other,Training 
+2025-11-08,22:46:23,UTC,7445,1.69.0 ,355789b99ea25172a97db5964698613d,fossilgroup,fossilgroup_7445,United States,lvfoEtOIJ-NNr7jSuo_My,zKG7BbmlXz4P22bVPqTwS,Selling,Capture Payment,Card reader bricked
+2025-11-08,23:50:16,UTC,37,1.69.0 ,541da77487585ce58a13bcf139e7f9cf,lornajaneoms,lornajaneoms_37,Australia,WXIN75xYgZMvXwYnxGOaE,kidEkNcKHEl4kxv1UEIRS,Selling,Other,Slow after scanning
+2025-11-08,18:28:25,UTC,140,1.71.2 ,a1f4fc13041152baa4eafd9dc1005bad,lego,lego_140,United States,_3UuAZ5ztWXzq6EsQ_OgK,oL0dOQ2kdvetoGE28tWQE,Selling,Other,-
+2025-11-08,19:38:04,UTC,701,1.71.2 ,d92f3165da1d51089902f913b9f63d08,lego,lego_701,United States,tQsyZyzqbZGvsyKLoHUkF,nBnvGXM-u6zGCH88GKIpg,Selling,Other,-
+2025-11-08,21:14:38,UTC,723,1.71.2 ,0ad323a9a88e5b3a8ec895358c702684,lego,lego_723,United States,QCsEO6QlUNaMAXHeGqMU2,PKloIsmwZsQiGZoPYQmdq,Selling,Printing,"Won’t print receipts. Yes, it has paper and is plugged in. Tried a different printer, it printed but with a lag. "
+2025-11-08,23:49:53,UTC,701,1.71.2 ,4dcfb1694cb25a83aed4cfa89fcdc155,lego,lego_701,United States,ffhc-97Ugam7-HhXuuBWr,MTRguJtbUKWpoOYZB4ZGD,Selling,Cash Management,Drawer not responding
+2025-11-08,0:40:05,UTC,A826,1.70.0 ,f9c21c722700599dba57d50cb1140281,clarks,clarks_A826,United States,sBp38krUil1oAMX-rDpjK,8USwcKs9kxOUWI0uSsCER,Other,-,-
+2025-11-08,0:49:53,UTC,KCD,1.69.0 ,3f3cadd1a51c52969293e40e13c70347,williams,williams_KCD,Australia,1yZeEyrWYf67I8ncNUjqi,XmfoLF1xuCRxM1sd0qNqY,Other,-,-
+2025-11-08,17:39:08,UTC,207,1.71.1 ,4d1b554d7c7d582682b129464337f460,roots,roots_207,Canada,W7K0dj5TCo-hVfJ-5GwV7,wvSxX2hDhEAOSNxJsWaIS,Other,-,-
+2025-11-07,11:31:24,UTC,25,1.71.2 ,603187afeaa55c93943352e8f12738aa,clarks,clarks_25,United Kingdom,r_NKstd5zzoRdG_hPDdps,iIwp6mc2h1YUpXeIRKbua,Fulfillment,Picking items,-
+2025-11-07,18:03:19,UTC,A531,1.71.2 ,f2e5f366bca8524e85b0620a33475dea,clarks,clarks_A531,Puerto Rico,rwhWHqfDcOXWTGpmIM49Q,ygvZiBABg22r-l2Rbc0UI,Inventory,Transferring,"Trying to do a transfer, didn't completed the transfer and doesn't let me print the ISN"
+2025-11-07,0:38:53,UTC,8221,1.69.0 ,1a03d97c2226509e90fee9429a41d57b,fossilgroup,fossilgroup_8221,United States,Hl5LAT4RRFJSWyzb7FiqZ,HsNMFZ_mUccI5BTwC6QcC,Login,Enter PIN,-
+2025-11-07,15:39:18,UTC,10050,1.71.2 ,883a1cdeff1e5316b51f4a4ccdbae7ef,shinola,shinola_10050,United States,a1uMTsFxTLm8Z4ZOmztpl,snJoTnOwgb2Fwx_a6olAE,Login,Enter PIN,Says pin is incorrect
+2025-11-07,15:58:56,UTC,5913,1.69.0 ,407514b818c350c8ad1a633a4f922f8e,fossilgroup,fossilgroup_5913,Canada,AYCxWgXxynB6ujnTfWL4C,dXB--EfLBzXZAjf1_SLWE,Login,Enter Email & Password,Loads forever after i sign in
+2025-11-07,16:47:56,UTC,8221,1.69.0 ,ca6fbf30c4475fda9f24724debd52b58,fossilgroup,fossilgroup_8221,United States,jiwIRkxHP7yOS0u7l8tzp,2yYBxWo6mZdvErc9Z94sW,Login,Enter PIN,Kept circling after I entered my pin
+2025-11-07,23:27:40,UTC,e83ed275-26b9-4ca7-b925-79eafac52432,1.71.2 ,b5f72877296059bdac395fbeb2e32212,untuckit,untuckit_e83ed275-26b9-4ca7-b925-79eafac52432,United States,Qmgfg06ALWbqvfHW4ramg,_O2cC434wGlVtHA2ZGsw7,Login,Select User,-
+2025-11-07,7:40:24,UTC,809,1.71.2 ,6401778dcf585837b4a15b7c9fbac6b2,lego,lego_809,France,kbiFLMKxN-qXNCctczC4q,FVqYL-J7wl1RHE5McxN-g,Login,Other,-
+2025-11-07,11:02:48,UTC,770,1.71.2 ,512e1c6dcb5c52999562f54e872dc669,lego,lego_770,Germany,cypcAFQ1qFh4oCcyfk0oc,HwdipmSxbf7pvggQC-bai,Login,Other,-
+2025-11-07,13:54:10,UTC,887,1.71.2 ,2a2c9d738b445607902ba5d09a05b759,lego,lego_887,Spain,YcztBviXkKiLFB49Eve1q,8ZboP2VG_jh7vkh31vDHQ,Login,Other,-
+2025-11-07,13:58:42,UTC,3035,1.71.2 ,f8bb42a10bae59089aab073241d01bab,clarks,clarks_3035,United Kingdom,BitC9oATE3NfG-5zG2qjY,0T2zquDguPmozfyqS-dIF,Selling,Process Sale,Asked a keyholder for approval when adding a discount
+2025-11-07,15:21:04,UTC,4838-TOWNCENTER,1.71.2 ,0439e621df075c16863f8292aa4ae593,vince,vince_4838-TOWNCENTER,United States,stx-W-WFIaOeJdqeisc7K,AAXZhgXuuyEQtSbH-YRQB,Selling,Search/Create Customer,Screen keeps freezing on clients profiles
+2025-11-07,16:19:53,UTC,GT,1.71.2 ,c7b8a1fdeef652878e69c3c439920c1d,marine-layer,marine-layer_GT,United States,irsOQWfD62XnfNUpYoPoc,yOxSaZbgoeeXN_SWQeyrr,Selling,Scan Product,-
+2025-11-07,17:34:44,UTC,A891,1.71.2 ,9e3b9499441456ea92b34673a169754a,clarks,clarks_A891,United States,HGyB4RWUPTsIhG9yKjxhs,zQgxykj0En9tRjQ9Ewxm5,Selling,Scan Product,It sucks 
+2025-11-07,18:16:05,UTC,NL-AM-U36,1.71.2 ,73d76db1153459a098c69a317f4a5086,paperandtea,paperandtea_NL-AM-U36,Netherlands,Qi8kylQlQPgVJwmjMpjNr,oPxcsl6eIRqDCYsklH6Au,Selling,Scan Product,-
+2025-11-07,19:44:53,UTC,MCK_NY_Madison_U62,1.71.0 ,f52b204596d25c289e70e5279565da3f,appgroup,appgroup_MCK_NY_Madison_U62,United States,hOUlCGiyoWFntPqhKFvIk,pKv3ctPseR4FPpcVeGWZo,Selling,Scan Product,-
+2025-11-07,20:43:20,UTC,US-526,1.71.1 ,c2e4c3c387385372afc6083567bda9c6,allsaints,allsaints_US-526,United States,0pxf5IsxW_1bOskAPGScj,ma2sG_JNkKD29jGVY5NkL,Selling,Scan Product,-
+2025-11-07,13:14:25,UTC,879,1.71.2 ,311bffc15ce15b4f9cca810f3c582029,lego,lego_879,Germany,QsjW3K1_iCIqNS-swI-vm,pvSs0YwEyS9fbBBtPy_3H,Selling,Process Sale,Voucher
+2025-11-07,21:10:07,UTC,821,1.71.2 ,587115a0795c55809d068a2cdcf8897f,lego,lego_821,Canada,8bLIkb008k1gyebXxDsYe,-UHBuzLgWmkbxvtw5CafE,Selling,Process Sale,-
+2025-11-06,23:23:12,UTC,US-511,1.66.1 ,b95099de800a580c885117cfa94ee0b2,allsaints,allsaints_US-511,United States,tDYVNWr4g7nUqE__POXLb,2X1TcnV0Vwpvop1zbx8De,Inventory,Receiving,Keeps freezing mutliple times. Nothing is being done to fix the issue. 
+2025-11-06,7:38:01,UTC,UK-75,1.69.0 ,a989e33a0a7c5b81b10000b836d52fbd,allsaints,allsaints_UK-75,United Kingdom,omwvbH-PgiBVYr_C-MRyj,tPosjKX7v_KndiWF5SU7H,Login,Select User,App is stuck on loading 
+2025-11-06,15:29:20,UTC,319010,1.71.2 ,d8677be3bc945a6489c97e3fb96fe27d,birkenstock,birkenstock_319010,United States,RWHkLzREDUgXfeWI2TOWM,JeQ38UH1culZUvHNyxUBl,Login,Enter PIN,Wouldn’t accept my pin
+2025-11-06,18:33:20,UTC,7472,1.69.0 ,25322aea23f151ec9a2e43edd8ae5c01,fossilgroup,fossilgroup_7472,United States,0IYz19aA7jle4T8ltVuMa,9q1fGUPtCoAfXcxwmQWTW,Login,Enter PIN,Whenever you login with the pin the device buffers.
+2025-11-06,1:10:30,UTC,7426,1.69.0 ,6a778f58020157aeba303a62067f0d2d,fossilgroup,fossilgroup_7426,United States,2SYe6XtUx-1bbaMop5ZdO,dre0hRXdNWddjaPqG2SYa,Selling,Navigaton,Pausing when switching 
+2025-11-06,1:32:24,UTC,22,1.69.0 ,61cdd08762a85ad5b1382599391698ca,lornajaneoms,lornajaneoms_22,Australia,m8GkaXBgMv0CSyL6cG8Qr,rJ0Bni93WpVAYW9CkwZ-k,Selling,Scan Product,Unsure
+2025-11-06,1:38:04,UTC,206,1.71.2 ,dd404918888a5ee88ea46b01f10fbc4f,rmwilliams,rmwilliams_206,Australia,6FK_P3mJ8dUy6oB36dMf9,Wg9WGthOnp4zUXQET4BnY,Selling,Scan Product,-
+2025-11-06,2:08:20,UTC,FILL,1.71.2 ,9b3567665d6853bd956176bfdee2080e,marine-layer,marine-layer_FILL,United States,soO6oJ3cP753eo9MdFE6e,mmxRK2jbiNnVjmpOy9GcE,Selling,Chat with Customer,Spinning cog when trying to message a customer about their order
+2025-11-06,4:40:02,UTC,443,1.69.0 ,7a5f65a2cd8b5d4f89accaad1ab384bf,lornajaneoms,lornajaneoms_443,Australia,MVyJRlvdt2sjdt2PXNwrO,jrp4LcmuLcdEoyjnfTG-8,Selling,Capture Payment,"I tried to make a sale and the pos machine wasn’t connected to the iPad
+And wouldn’t process transaction, stayed on loading page for 5 mins"
+2025-11-06,17:41:25,UTC,4901-MADISONAVE,1.71.2 ,98a70b8607295a7fbe16e7f36346d57a,vince,vince_4901-MADISONAVE,United States,q4ZeuvSM92LFdL0vdUaft,CnXdU3eoz570Di0rhtq8l,Selling,Scan Product,-
+2025-11-06,18:46:35,UTC,A160,1.71.2 ,2e816df0958357faa60358ce3ea88a4c,clarks,clarks_A160,United States,ZScG3OgYoGool7sVyCbj2,j5IwuMbOfYhyaqKQzDEie,Selling,Capture Payment,-
+2025-11-06,19:50:03,UTC,351,1.71.1 ,8a1b40d023775137ae68995580302282,roots,roots_351,Canada,7qinWbgX5333c1OREjeDF,hIGUMApB1JphOVeZnxxSQ,Selling,Capture Payment,-
+2025-11-06,20:38:47,UTC,2e6d1661-661f-409f-b9db-77faa0ab2156,1.71.2 ,27959f0d9d0f5e0eafd9621656ec415d,untuckit,untuckit_2e6d1661-661f-409f-b9db-77faa0ab2156,United States,4QbpFvnbvYXypd4_O4GyX,K5WSO3KVSVfW1F1NA5G3V,Selling,Process Sale,-
+2025-11-06,20:39:09,UTC,2e6d1661-661f-409f-b9db-77faa0ab2156,1.71.2 ,27959f0d9d0f5e0eafd9621656ec415d,untuckit,untuckit_2e6d1661-661f-409f-b9db-77faa0ab2156,United States,4QbpFvnbvYXypd4_O4GyX,K5WSO3KVSVfW1F1NA5G3V,Selling,Process Sale,"Tried to get to a saved cart, but could not scroll through the carts to get to the one I needed"
+2025-11-06,11:19:05,UTC,757,1.71.2 ,319283aeb6c25a319f503e74acdf8577,lego,lego_757,Germany,rMKlZ1DuH9paI2C3DXKS4,gxnyHE20a8hQDdLqp6S1N,Selling,Process Sale,-
+2025-11-06,15:13:11,UTC,889,1.71.2 ,71386f674c3a5f5da1cc2a803c7f88a3,lego,lego_889,Denmark,NQhWHrFibTpvs2Wr1B3Ua,PfQUlc3M_dozOP-e8ARsD,Selling,Process Sale,Froze between more and cart
+2025-11-06,16:34:47,UTC,3988,1.71.2 ,b84b7793fc2a50ee9bccacb58ff02e57,clarks,clarks_3988,United Kingdom,M_ZpPhOAZE6p17WXMPte9,K8jZPz743_XsHXKqUYoVx,Other,-,-
+2025-11-05,15:29:55,UTC,US-636,1.71.2 ,8826732b1cf35b43b4c41387e106945f,allsaints,allsaints_US-636,United States,7BU-Oe3Oxde1GKiT5pdNS,lLdypNaP4KdEilWkpYynX,Fulfillment,Printing,-
+2025-11-05,16:07:29,UTC,114,1.71.2 ,cfc706a0e9385773acb7c73263999813,roots,roots_114,Canada,n8-s1wDnQ-Ltdo_fqgQ5Q,oIKoggW3fDgW6FpnhdpiJ,Fulfillment,Picking items,-
+2025-11-05,16:42:17,UTC,CHI,1.70.0 ,ec17d7b9fdcf51f282d6c0fbd7aa74cd,burton,burton_CHI,United States,CMhcipC6rQY9NS5I4F4DE,EYyPH3hTha48uaJKRqGIs,Fulfillment,Printing,Error with wave of orders and loading screen froze
+2025-11-05,12:37:39,UTC,529,1.71.2 ,c03b57514c3257fe8c4cb3e5de748e21,clarks,clarks_529,United Kingdom,uREI4tkSCE0PR6AkJEftg,VnHYEpKcem83in49fb7ZY,Inventory,Receiving,Not allowing to scan products
+2025-11-05,21:05:19,UTC,1784,1.71.2 ,1853d3dfd57052879fd34fa62d625618,clarks,clarks_1784,United Kingdom,GsyGuHG6fnpfK1knugJ71,CD0WU4btsFtbZqMJe4lxK,Inventory,Adjustments,-
+2025-11-05,21:31:09,UTC,US-CA-CABA,1.71.2 ,278473ab57e552fca0a2a38714055d4f,ganni,ganni_US-CA-CABA,United States,3CJzVijAp_TUBQv_iqtpN,8NHp8Vhbhaq0DJJvaEEIc,Inventory,Scanning,Newly received shipment isn’t updating in NewStore 
+2025-11-05,21:35:59,UTC,CC-NY,1.71.2 ,b9ab6a915ec45e4585edc88a33e14627,rapha,rapha_CC-NY,United States,HVUMHJo0qsP6p4uuv7iLh,EUVCbUQwkNTsw6qjBGWTU,Inventory,Receiving,App freezes when you try and type out the amount of items you’re scanning in 
+2025-11-05,10:27:16,UTC,5455,1.71.2 ,1bca4810e1695c0e9782bc029df43b6b,clarks,clarks_5455,United Kingdom,lf9wGqbVDV2N7uEli1iqR,MDTCdBQc7Cq-HSwYN-fVK,Login,Enter PIN,Said there was an issue when i typed my pin and to contact a manager
+2025-11-05,15:08:28,UTC,8221,1.69.0 ,1a03d97c2226509e90fee9429a41d57b,fossilgroup,fossilgroup_8221,United States,2YFRyrgzZcJe6hfhRWw9j,2fOyLrNwTe822kEtv9Xjb,Login,Enter PIN,It kept circling after I put in my passcode 
+2025-11-05,10:31:09,UTC,5475,1.71.2 ,b368120305cb50a190c3702132020cc8,clarks,clarks_5475,United Kingdom,SxP0gTSVlk-kGBNY_mW5s,KlfBlFRoCk5ao4nHXoUrM,Runner,Submit task,Wouldn'tlet me send shoes to runner 
+2025-11-05,1:41:50,UTC,7601,1.69.0 ,b6a8ea9df7e150a09612c1707fe84298,fossilgroup,fossilgroup_7601,United States,bJu227_JW4orNNSNnMgiH,DPtvkFDp6kEiXttSiySbD,Selling,Other,App often doesn’t load and you have to quit and reopen to get it to work
+2025-11-05,4:21:00,UTC,US-590,1.71.1 ,d5c874a969895643a80b4c2bc00d125b,allsaints,allsaints_US-590,United States,8yiyxWICpU1aC04Cq7uLj,yogyv6tLrg0Wd8syAhNmn,Selling,Process Sale,Says im not sm role but i am
+2025-11-05,11:36:31,UTC,UK-289,1.71.2 ,cf6977d9487251c5a6102d98e1604e6d,allsaints,allsaints_UK-289,United Kingdom,GQX4O1txm79OP8x1VrPa-,oMtFAZKFpGYOcJO2_lR78,Selling,Process Sale,Wardrobe access levels to reset
+2025-11-05,12:56:40,UTC,1788,1.71.2 ,c40dfed4a8d45eef99837dcbca600ff3,clarks,clarks_1788,Ireland,WxePcoErM22RTdqx4Npnu,iqlnOjEoqaqlSi1iHoejd,Selling,Capture Payment,-
+2025-11-05,16:24:40,UTC,8221,1.69.0 ,ca6fbf30c4475fda9f24724debd52b58,fossilgroup,fossilgroup_8221,United States,0In_jtWI5ZYd34bx3HnhS,dO_djujE4MxyIjtLmaEQx,Selling,Sales Dashboard,Sales dashboard wouldn’t load 
+2025-11-05,20:12:11,UTC,US-488,1.66.1 ,7238947dd47e5445aae3b6fdd99672c7,allsaints,allsaints_US-488,United States,7gQJAaeZfBB4UJkLN3gA8,qwU8iFFi7tOrMNGZjtWyC,Selling,Scan Product,Never loaded anything
+2025-11-05,21:00:05,UTC,4838-TOWNCENTER,1.68.1 ,0439e621df075c16863f8292aa4ae593,vince,vince_4838-TOWNCENTER,United States,num5cvrapaWCvubuDR55_,j1CV6soXf5ApwhqjjPOfs,Selling,Process Sale,-
+2025-11-05,22:43:05,UTC,447,1.69.0 ,c2cd9c1f08de5a04b628137a9beb54ad,lornajaneoms,lornajaneoms_447,Australia,YbwP5f9z_jRWmmndQNXNs,xQgrA_JlVtOgBGxeKd3Cs,Selling,Capture Payment,"It’s coming up with a remaining amount of payment even though the sale yesterday WAS processed and customer showed us full proof of the entire payment being made. 
+$20 is the remaining amount."
+2025-11-04,23:09:17,UTC,18,1.69.0 ,1170327958b4585d8a655c493ea1fb64,lornajaneoms,lornajaneoms_18,Australia,jLkjjxwQD3GTeiKtJKmV0,8hfk9krPRoN5VKrqyQrgw,Fulfillment,Other,-
+2025-11-04,2:06:46,UTC,153,1.69.0 ,46c96773ae9b5256b58c200a30b272fb,lornajaneoms,lornajaneoms_153,Australia,ma8P8TekAWZjL2rmDr5Vq,mY1N_KfqV5vwnZ19zpmw6,Inventory,Receiving,Won’t let me discard changes.
+2025-11-04,11:40:15,UTC,2462,1.71.2 ,d28298ff6dc550bc939714f0961a6ba8,clarks,clarks_2462,United Kingdom,ypCDJUcG372Srm6pKSB5q,9DpJM12u2LCrZoJuuQhsh,Inventory,Transferring,Crashed
+2025-11-04,8:28:48,UTC,3834,1.64.0 ,0b0a4ad18432590ebd2f42627e9bb2be,clarks,clarks_3834,United Kingdom,a-b_S3xuFSXKWtUQHn-E6,ewwQZnxXZw9vPpfEFKuMS,Login,Enter Email & Password,Froze once email and password entered 
+2025-11-04,9:23:32,UTC,2353,1.70.0 ,60df3357cc435dcbb8e77e9ac513c3cf,clarks,clarks_2353,United Kingdom,nxSxDwcxUk4ooY4WBzYvl,Y9QPuNR-PgVnK3Yie8J6X,Login,Enter PIN,-
+2025-11-04,19:15:38,UTC,dbbc0dca-4e78-4e4d-abba-e89ebd90a22c,1.71.2 ,31efe8e5f6da594f935d9ef176a3160e,untuckit,untuckit_dbbc0dca-4e78-4e4d-abba-e89ebd90a22c,United States,8xXHmLqtKXyCmWDFpiqGx,m5JMHxglqabVhy4bkuYHs,Login,Enter PIN,-
+2025-11-04,14:54:50,UTC,856,1.71.2 ,03ae63932ef951409dfe5dd3182cea04,lego,lego_856,United States,AJHXgVsK_NIBP96ceMG_-,k0hPvgOBUzqeOEo6R-gJ8,Login,Other,Employee didn’t finish transaction so it was still logged in as them. 
+2025-11-04,14:54:38,UTC,856,1.71.2 ,03ae63932ef951409dfe5dd3182cea04,lego,lego_856,United States,AJHXgVsK_NIBP96ceMG_-,k0hPvgOBUzqeOEo6R-gJ8,Login,Enter PIN,-
+2025-11-04,12:57:28,UTC,3257,1.52.0 ,1589a5f514555243b45f491b71933be9,clarks,clarks_3257,United Kingdom,6P4XvK2nBLHxF-uwz0LXE,MvMNrwHlzkb48V26Qv1av,Runner,Submit task,Vv
+2025-11-04,0:03:50,UTC,419,1.69.0 ,3f3b973ccc2e523698d1dddfcf2385a8,lornajaneoms,lornajaneoms_419,Australia,MjaiA0xxUf2KIbIjDRVt8,yOBT2slYDNEFn7JgazOc0,Selling,Search/Create Customer,-
+2025-11-04,1:46:44,UTC,109266,1.71.0 ,5d616575d6855c74bd2125fb12996ed7,Zimmermann-staging,Zimmermann-staging_109266,Australia,kflEn0k6Ac6V9Zji4dwKi,4xsD4CRiS2wwAStiXzVWk,Selling,Scan Product,-
+2025-11-04,2:13:40,UTC,94,1.69.0 ,af66e6c05112550bb79a13f185971428,lornajaneoms,lornajaneoms_94,Australia,XXaqUMWwSqE93M1zOpwP1,37rn325Lb_w0ZUUQfS6ah,Selling,Scan Product,Will not load
+2025-11-04,11:50:27,UTC,3834,1.64.0 ,7916f4ff0d4553378b91fbed4fe5c020,clarks,clarks_3834,United Kingdom,tNvFFTSDu1TgFI4d4E67u,JzO7RYO-hoFMZGplmGvtW,Selling,Scan Product,Froze while scanning product
+2025-11-04,12:49:17,UTC,UK-303,1.71.1 ,91937fe2c5225f4b9e0532399c833a9c,allsaints,allsaints_UK-303,United Kingdom,v716Kl7PRpB2NTVD2a8ps,lDqQGQfoONt_zd9MG_c1W,Selling,Process Sale,Doesnt allow me to add to basket
+2025-11-04,12:54:49,UTC,5420,1.71.2 ,aeb7773fe5b6573886f864fd4ad5f276,clarks,clarks_5420,Ireland,esraDXt_uvNcv-pZ6sYy3,7QovpGfIMD6Nqu-PwAOhp,Selling,Process Sale,Gift card add
+2025-11-04,16:13:06,UTC,MCK_NY_Madison_U62,1.71.0 ,a914b7da7438553ebb270da4a227fcd8,appgroup,appgroup_MCK_NY_Madison_U62,United States,4yxVjTeNDe1xNS6vEHFbD,1ZqtuCv3UsAyft-75jGbo,Selling,Process Sale,-
+2025-11-04,16:16:37,UTC,MCK_NY_Madison_U62,1.71.2 ,b296175a199e5ba3bf9a0c2f804715eb,appgroup,appgroup_MCK_NY_Madison_U62,United States,i8Sh2cGNq6272MAPzkvIm,b7VUxXvxjgl9UgmIvSUko,Selling,Process Sale,-
+2025-11-04,17:32:21,UTC,52,1.71.2 ,12d8cde8346b5139ac4427725e0a7e88,sweatybetty,sweatybetty_52,United Kingdom,y3M_CZqcZZjlhRbcPWNQe,UuJwQDCyFa-iQw2Mqc9l1,Selling,Process Sale,-
+2025-11-04,18:21:50,UTC,319016,1.71.2 ,f6b3d4c855405a96a311ede7b00c18d8,birkenstock,birkenstock_319016,United States,qE7URKV3xucpccku7VQbq,0C0qwpXyq0v3sa_dttmSX,Selling,Chat with Customer,Behe
+2025-11-04,18:25:56,UTC,MCK_NY_Madison_U62,1.71.0 ,a914b7da7438553ebb270da4a227fcd8,appgroup,appgroup_MCK_NY_Madison_U62,United States,s5Q-AVojWMgBwYEipVizk,n7WmfBVe_y7GgtSSQrFwT,Selling,Process Sale,-
+2025-11-04,19:50:29,UTC,MCK_NY_Madison_U62,1.71.1 ,df6a3198314d5b67b6c421bd66c4e6ea,appgroup,appgroup_MCK_NY_Madison_U62,United States,Y07M0dJ_Usyy_pufu-rgT,FQI9wCR7Kn7EycbWVH1NN,Selling,Process Sale,-
+2025-11-04,20:28:56,UTC,MCK_NY_Madison_U62,1.71.0 ,f52b204596d25c289e70e5279565da3f,appgroup,appgroup_MCK_NY_Madison_U62,United States,-iWik9fkASD5Gwoz_B8mU,4BnLpRyNNOCZOXiY2XLEt,Selling,Process Sale,-
+2025-11-04,23:21:29,UTC,dc0e025f-5cf5-427d-b71e-b8853974618f,1.71.2 ,92adb07f9716588d88bc28515030fbf8,untuckit,untuckit_dc0e025f-5cf5-427d-b71e-b8853974618f,United States,SCluEY3KQ0lhwkZNkQCFy,OHdu1SGcznlOlqbTzc8AF,Selling,Printing,I’m trying to create stickers for bagging and tagging. None of the iPhones are connecting to our printer.
+2025-11-04,16:27:53,UTC,856,1.71.2 ,6739c511b3795448b80da0483606c8f3,lego,lego_856,United States,Nu0ZpF7eKSvn4h0pn1xMo,Tn5EEaKtXzZIf0LdKcjen,Selling,Process Sale,Won’t connect 
+2025-11-04,19:38:56,UTC,708,1.71.2 ,688e2eb3818d52a0b21fa0899fbcaa95,lego,lego_708,United States,Y-ja6eH3sv1pruEDp-NKk,ms_gVhi5zJz71Kx3ur9Jz,Other,-,-
+2025-11-03,16:53:30,UTC,TOR,1.71.2 ,bd9de624af354539a8ea9f172f7b7335,burton,burton_TOR,Canada,MKpcbgheLUCqGxuXD9NeA,8nCfDNZZ5trSzhTVAvtvI,Fulfillment,Printing,"Labels having issue printing. Keep failing to load, happened on multiple orders"
+2025-11-03,17:01:53,UTC,4946-WATERSIDESHOPS,1.68.1 ,b72a66e81ee755199c5d9e20ec439e41,vince,vince_4946-WATERSIDESHOPS,United States,kTJZ9dzmevjlB4TsFan2I,1G61jgFZQT9dZgOs3OWsR,Fulfillment,Other,-
+2025-11-03,16:58:04,UTC,4946-WATERSIDESHOPS,1.68.1 ,b72a66e81ee755199c5d9e20ec439e41,vince,vince_4946-WATERSIDESHOPS,United States,I7NaqT9FCH2XKg_kxtXw-,n0ySCkLwSaUxTr76j3wPe,Inventory,Transferring,Not printing
+2025-11-03,15:39:27,UTC,MCK_NY_Madison_U62,1.71.0 ,a914b7da7438553ebb270da4a227fcd8,appgroup,appgroup_MCK_NY_Madison_U62,United States,FGBUX3LChRDK4KsSjC4FV,s7xe5wU00r-lF6DZcFaLP,Login,Enter PIN,-
+2025-11-03,16:01:41,UTC,1051470,1.71.2 ,2183c525220c56828db42b523b364675,boardriders,boardriders_1051470,France,vmvZrHvrSt7jMTzKr515s,nD40M5hzc59sFdb0HExq2,Login,Enter PIN,-
+2025-11-03,18:06:53,UTC,4f020fdd-031b-4ba4-93f7-6ec2adcc7584,1.71.2 ,cc08c5caf9d65cfabcb97907e3fce9aa,untuckit,untuckit_4f020fdd-031b-4ba4-93f7-6ec2adcc7584,United States,Jp4zE0l4MO4MqF9EKCC_1,lFFgtgyWOVP1zQjVdCzAu,Login,Enter Email & Password,Authorization failed
+2025-11-03,19:21:52,UTC,893e7edf-8a7c-4147-ac26-6f6114788066,1.71.2 ,60370eacf4955e56bc673593739a4138,untuckit,untuckit_893e7edf-8a7c-4147-ac26-6f6114788066,United States,indGWH-jCvev6ey7Oi0gC,0G74m-nrjPievNB1Qonlk,Login,Enter PIN,-
+2025-11-03,22:05:45,UTC,KBU,1.69.0 ,54e2f544f58f5d96830a625abeb5f465,williams,williams_KBU,Australia,609z5lewa-rOWwNX79yp0,tHNppI4itkRuj3FjRMu4_,Login,Enter PIN,-
+2025-11-03,17:04:45,UTC,3171,1.71.2 ,c5ba024d84a25bb9b5bf627d188f2850,clarks,clarks_3171,United Kingdom,80q7hPPhp-Dn479yq3QVv,UoTGY75bJvQUtGbNKppV1,Selling,Cash Management,The till drawer is not open when using on new store so cant take cash 
+2025-11-03,18:06:06,UTC,7554,1.69.0 ,2effc9c08bff5304a250211f5636d679,fossilgroup,fossilgroup_7554,United States,p00pwzpgLNc_jwP5rnDD1,550i_-2a7MHxqCxqQHew2,Selling,-,-
+2025-11-03,19:06:22,UTC,4960-AVENTURA,1.68.1 ,7096fd738e6d5a6a8af5153d1729b6c5,vince,vince_4960-AVENTURA,United States,Mt9XPVlrjasd1VjpxfeC9,M32GjXQ-sesC8eJLmGqIr,Selling,Capture Payment,Not working
+2025-11-03,19:49:26,UTC,MCK_QC_SteCatherine_C62,1.71.1 ,04d3ef28684b5554a5bba766a53b6caa,appgroup,appgroup_MCK_QC_SteCatherine_C62,Canada,evceki5Stl-5kcWbf9ue1,eC9jq2CXgoGjQP2_wptkb,Selling,Chat with Customer,Chats not loading
+2025-11-03,20:48:56,UTC,893e7edf-8a7c-4147-ac26-6f6114788066,1.71.2 ,60370eacf4955e56bc673593739a4138,untuckit,untuckit_893e7edf-8a7c-4147-ac26-6f6114788066,United States,9Qn0aYgd1LaRPnIlMR-AB,u7pyqu16gAMxBGcBu2xEh,Selling,Capture Payment,A transaction did not process and now the screen keeps flashing to pay Ramin Ghaffari $155.41/$147.22 I do not see the payment on my end as being processed it looks like it is in limbo as the iphone is still flashing on the payment page
+2025-11-03,23:09:21,UTC,A850,1.58.0 ,b4c10e6ada575a88a8a62c762aa0ca25,clarks,clarks_A850,United States,QcqG-Qd_wOtE_sjm-Msps,LS8sSZyTfzJjlhDsL0mUB,Selling,Process Sale,No sale
+2025-11-03,22:34:01,UTC,MCK_NY_Madison_U62,1.71.0 ,f52b204596d25c289e70e5279565da3f,appgroup,appgroup_MCK_NY_Madison_U62,United States,NjzgPdGVtfPV_qzRfudn1,jUIbnNDuweiutQh5QqvwM,Other,-,-
 2025-11-02,10:50:59,UTC,3257,1.52.0 ,1589a5f514555243b45f491b71933be9,clarks,clarks_3257,United Kingdom,CCHdTWInrOPAmwjfGFApj,UkVwCBNl9HrzBdVvwMbld,Inventory,-,-
 2025-11-02,2:14:40,UTC,20,1.66.1 ,f9ced9ef78265cc7a1c81254eb119aaf,windsor,windsor_20,United States,lVmanMaasdJrNNm7e-YfG,SCqTpDsDjS88agqz1pmJw,Login,Enter Email & Password,-
 2025-11-02,15:59:28,UTC,CA-TO-YORK,1.64.0 ,e88d7486d75d5e548bf8753b22eb8120,ganni,ganni_CA-TO-YORK,Canada,oR1vlZra1sFhz7NbhNqmI,CPQjslXHRzHnAiZTbuue1,Login,Enter PIN,-
@@ -70,7 +204,7 @@ Date,Time,Timezone,Store,Version,lastActiveUser,Retailer,Retailer StoreID,Countr
 2025-10-29,12:44:04,UTC,MCK_FR_Paris_F61,1.71.2 ,5b02a002018053a5ab7ead7ac97200c4,appgroup,appgroup_MCK_FR_Paris_F61,France,rRtx28-L9JNbAtbi1eySy,nTai8TRGuMFHJMAdHOLwF,Selling,Process Sale,Issue with shipping delivery 
 2025-10-29,12:50:03,UTC,5443,1.71.0 ,49ad6a450d7b52a092282038fd3e5b05,clarks,clarks_5443,United Kingdom,5amzqKjij1RU7ah43xDte,0KsSKu99PNreLtGlt-Qvi,Selling,Other,-
 2025-10-29,14:04:56,UTC,1861,1.71.1 ,069e0294f0f2521b88443f6afcebd811,clarks,clarks_1861,United Kingdom,t0vB0qUIZHcoUs6lasiTA,Q-A-DDpekGNmyfz6-mEvc,Selling,Other,Not updating 
-2025-10-29,14:07:03,UTC,-,1.59.1 ,-,clarks,clarks_-,#N/A,-,-,Selling,Other,-
+2025-10-29,14:07:03,UTC,-,1.59.1 ,-,clarks,clarks_-,-,-,-,Selling,Other,-
 2025-10-29,14:29:42,UTC,A601,1.58.0 ,ce2c393ba54656e096c4ef1b47a1fd80,clarks,clarks_A601,Canada,0mLqp4q-Ue5DOuL6My-68,1mWuYsoBgj6D7h6xOyRKr,Selling,Other,Update app not able to
 2025-10-29,15:04:27,UTC,A155,1.61.0 ,429029a14113572f97e426aa9a853b51,clarks,clarks_A155,United States,DNWtmnN0oxAtlgkvdSMAg,BmgOLtjaKmnGHtwBLTpGM,Selling,Other,Update app
 2025-10-29,15:07:18,UTC,2526,1.66.1 ,ecbca1c43c855c1c8f670fa2559de4f3,clarks,clarks_2526,United Kingdom,ACz0rMc5k8t-D54ZgaM3d,NCIQOvADwz6SR1iKhoCXQ,Selling,Other,-
@@ -90,7 +224,7 @@ Date,Time,Timezone,Store,Version,lastActiveUser,Retailer,Retailer StoreID,Countr
 2025-10-28,20:46:05,UTC,3834,1.64.0 ,c72e893fadd75ab59d347c303304dce6,clarks,clarks_3834,United Kingdom,dn_hMDkmYb_zH3iVCMjd7,cy9bR9KQ9hLF1HgB8MNx-,Login,Enter PIN,Froze once pin entered
 2025-10-28,22:54:40,UTC,CC-MEL,1.70.0 ,2643a88f51ae517faeaf11fb1c15fcc1,rapha,rapha_CC-MEL,Australia,mpm9Fy7NJa8l517KFW5b0,FewrkIYmINjb8-pe82_nc,Login,Enter Email & Password,Won’t let me log in
 2025-10-28,0:21:01,UTC,US-533,1.69.0 ,dd0efbb5a989517a82322991a9a547ea,allsaints,allsaints_US-533,United States,1_NCQlObosgdG405_6vCC,g-fdXL5zShVEsOjZ67Y3a,Selling,Scan Product,Stuck on loading 
-2025-10-28,0:24:42,UTC,72,1.66.1 ,8fcc31b594185762b00d70166b65ec27,windsor,windsor_72,#N/A,E02UizCyQR4BbQoUt23jd,8I5NkP8XUHeI6YB6IEJCc,Selling,Process Sale,-
+2025-10-28,0:24:42,UTC,72,1.66.1 ,8fcc31b594185762b00d70166b65ec27,windsor,windsor_72,United States,E02UizCyQR4BbQoUt23jd,8I5NkP8XUHeI6YB6IEJCc,Selling,Process Sale,-
 2025-10-28,0:24:46,UTC,7426,1.69.0 ,6a778f58020157aeba303a62067f0d2d,fossilgroup,fossilgroup_7426,United States,XlZaCPkCtD82l7nHFpiCV,ayu2rZ54qYVsYNilBBU1C,Selling,Process Sale,-
 2025-10-28,0:51:57,UTC,448,1.69.0 ,1491021e78cd56ad9873ed9383ba52fe,lornajaneoms,lornajaneoms_448,Australia,tcrqhrPhzLUwlmSFCyaBX,u05IeybMwvyO71tFqKl4L,Selling,Process Sale,-
 2025-10-28,2:59:02,UTC,33,1.69.0 ,22af7332088e5795bd8b932363d875de,lornajaneoms,lornajaneoms_33,Australia,B-SOqDfKSqtYBLVeWohms,C5fwW9HqIe8sX-rPoF5dv,Selling,Scan Product,Taking too long to load
